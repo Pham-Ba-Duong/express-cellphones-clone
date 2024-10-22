@@ -212,16 +212,10 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     z-index: 1;
 }
-.swiper-slide {
-    width: 33.333%;
-    height: 100%;
-    /* text-align: center; */
-}
 .swiper-slide a > img{
     display: block;
     margin: auto;
     min-height: 30px;
-
 }
 /* ------------navbar--------------- */
 
@@ -873,9 +867,9 @@ button, input, select, textarea {
     align-items: center;
     display: flex;
     justify-content: space-between;
-    padding: 0 0 10px 0 ;
+    padding: 0 0 10px 0;
     width: 90%;
-    margin: auto;
+    margin: auto; 
 }
 .product-info-container .bottom-div .product__box-rating {
     align-items: center;
